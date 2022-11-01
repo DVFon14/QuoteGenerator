@@ -53,18 +53,21 @@ grid-template-areas:
 
 #meme1{
   grid-area: "memeNumbers";
-  width: 95%
+  width: 95%;
+
 }
 
 #QuoteGenerator{
- height: 400px;
+ height: 60%;
   width: 400px;
   font-size: x-large;
-  padding: 100px;
+  padding: 100px;  
+  justify-content: center;
 }
 
 #ButtonGenerator{
-  grid-area: "button"; 
+  grid-area: "button";   
+  justify-content: center;
 }
 
 #history{

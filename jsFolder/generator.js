@@ -10,7 +10,8 @@ let quotes = [
     `83% of statistics are made up on the spot -unknown`, 
     "That awkward moment when you finish a math problem and your answer isn’t even one of the many choices — Ritu Ghatourey", 
     "Mathematics is not a careful march down a well-cleared highway, but a journey into a strange wilderness, where the explorers often get lost.  - W.S. Anglin.",
-    "If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is. — Johann von Neumann"
+    "If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is. — Johann von Neumann",
+    "Do not disturb my circles -Archimedes"
   ];
   
   document.addEventListener("DOMContentLoaded", function(event) {
